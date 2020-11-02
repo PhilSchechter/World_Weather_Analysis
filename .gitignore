@@ -82,7 +82,8 @@ profile_default/
 ipython_config.py
 config.py
 *.py
-
+API_practice.ipynb
+random_numbers.ipynb
 # pyenv
 .python-version
 
