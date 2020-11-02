@@ -18,12 +18,15 @@ And using tools (request, get) to help form URLs for the API pulls and read from
 - filtered potential vacation spots by a user specified temperare range
 - mapped out resulting city, with a clickable data layer showing city name, country, weather conditions, and a hotel name.
 
-Can see an impage of the resulting map: 
+Can see an impage of the resulting map:
+
 [Cities](Vacation_Search/WeatherPY_vacation_map.png)
 
 ## Vacation Itinerary
 - picked out 4 cities from the list
 - provided a driving map to loop
 - saved resulting map
+
 [Itinerary](Vacation_Itinerary/WeatherPy_travel_map.png)
-[Itinerary with Markers](Vacation_Itinerary/WeatherPy_travel_map_markers8.png)
+
+[Itinerary with Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
