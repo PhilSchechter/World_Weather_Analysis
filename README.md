@@ -20,7 +20,7 @@ And using tools (request, get) to help form URLs for the API pulls and read from
 
 Can see an impage of the resulting map:
 
-[Cities](Vacation_Search/WeatherPY_vacation_map.png)
+[Cities](Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Vacation Itinerary
 - picked out 4 cities from the list
